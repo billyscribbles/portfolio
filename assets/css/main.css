@@ -3220,6 +3220,9 @@ input, select, textarea {
 
 	}
 .work-image{
-	max-width: 100%;
+	width: 100%;
     height: 230px;
+}
+.work-anchor{
+	border-bottom: none !important
 }
